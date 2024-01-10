@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "760354409139",
+    "project_id": "login-e1360",
+    "storage_bucket": "login-e1360.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:760354409139:android:44ae1489766c0fc49dbec6",
+        "android_client_info": {
+          "package_name": "com.example.autenticacion"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDQn5DdpNtaND7GuS7OF8udPA5ENub3EdI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
